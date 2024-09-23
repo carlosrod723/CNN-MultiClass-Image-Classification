@@ -1,10 +1,10 @@
 # CNN Multi-Class Image Classification
 
 ## Overview
-This project builds a **Convolutional Neural Network (CNN)** using TensorFlow/Keras to perform multi-class image classification. The model classifies images into three categories: `driving_license`, `social_security`, and `others`. It utilizes a combination of convolutional layers, batch normalization, max pooling, and dropout to achieve high performance in classifying these images.
+This repository builds a **Convolutional Neural Network (CNN)** using TensorFlow/Keras to perform multi-class image classification. The model classifies images into three categories: `driving_license`, `social_security`, and `others`. It utilizes a combination of convolutional layers, batch normalization, max pooling, and dropout to achieve high performance in classifying these images.
 
 ## Aim
-The goal of this project is to develop a sequential CNN model that can accurately classify images into one of three predefined classes. The model is built using TensorFlow/Keras and trained on a dataset of images from the categories `driving_license`, `social_security`, and `others`.
+The aim is to develop a sequential CNN model that can accurately classify images into one of three predefined classes. The model is built using TensorFlow/Keras and trained on a dataset of images from the categories `driving_license`, `social_security`, and `others`.
 
 ## Data
 The dataset consists of images categorized into three folders:
